@@ -1,0 +1,12 @@
+{
+    "python.linting.enabled": true,
+    "python.pythonPath": "/usr/local/bin/python3.6",
+    "python.unitTest.unittestArgs": [
+        "-v",
+        "-s",
+        "./01_Python_Primer",
+        "-p",
+        "*_test.py"
+    ],
+    "python.unitTest.unittestEnabled": true
+}
